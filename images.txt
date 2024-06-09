@@ -1,2 +1,1 @@
-alpine
 redis:alpine:7.0.12
