@@ -38,6 +38,12 @@ Fork本项目<br>
 回到阿里云，镜像仓库，可以将镜像修改为公有。点击任意镜像，可查看镜像状态。
 ![](doc/开始使用.png)
 
+国外镜像：<br>
+```
+https://hub.docker.com/
+```
+
+
 在国内服务器pull镜像：<br>
 ```
 docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
