@@ -1,1 +1,1 @@
- java:openjdk-8u111-alpine
+zhayujie/chatgpt-on-wechat
