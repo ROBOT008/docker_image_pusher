@@ -1,1 +1,1 @@
-zhayujie/chatgpt-on-wechat
+mysql:8.0
