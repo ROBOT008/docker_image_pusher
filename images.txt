@@ -1,1 +1,1 @@
-redroid/redroid:8.1.0-amd64
+budtmo/docker-android:emulator_9.0
