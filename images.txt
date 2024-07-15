@@ -1,1 +1,1 @@
-redroid/redroid
+redroid/redroid:8.1.0-amd64
