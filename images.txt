@@ -1,1 +1,1 @@
-registry:latest
+joxit/docker-registry-ui:static
