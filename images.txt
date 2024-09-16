@@ -1,1 +1,1 @@
-nps
+postgres:alpine3.20
