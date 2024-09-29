@@ -1,1 +1,1 @@
-dockurr/windows:latest
+mona233/yuyuwechatv2_client:latest
