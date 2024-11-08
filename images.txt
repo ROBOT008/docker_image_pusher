@@ -1,1 +1,1 @@
-ionewu/owjdxb:latest
+m.daocloud.io/docker.io/eclipse-temurin:8-jre
