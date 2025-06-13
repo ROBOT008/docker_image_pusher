@@ -1,1 +1,1 @@
-gitea/gitea:latest
+java:8
