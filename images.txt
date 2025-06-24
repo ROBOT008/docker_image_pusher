@@ -1,1 +1,1 @@
-dreamacro/clash
+nginx:1.26.3
