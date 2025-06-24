@@ -1,1 +1,1 @@
-ghcr.io/dreamacro/clash
+ghcr.io/dreamacro/clash-premium
