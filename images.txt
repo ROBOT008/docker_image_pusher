@@ -1,1 +1,1 @@
-openjdk:17-jdk
+jenkins/jenkins:2.528
