@@ -1,1 +1,1 @@
-jenkins/jenkins:2.528
+apache/rocketmq:5.3.2
