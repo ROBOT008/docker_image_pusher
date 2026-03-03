@@ -1,1 +1,1 @@
-busybox:latest
+langgenius/dify-api:1.13.0
