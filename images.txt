@@ -1,1 +1,1 @@
-containers.intersystems.com/intersystems/iris-community:2025.3
+container-registry.oracle.com/database/free:latest
