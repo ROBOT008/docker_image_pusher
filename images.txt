@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+openjdk:21-jdk
