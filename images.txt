@@ -1,1 +1,1 @@
-eclipse-temurin:21-jdk-jammy
+one-api:latest
